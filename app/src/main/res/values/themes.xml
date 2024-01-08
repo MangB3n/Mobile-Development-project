@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginScreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimary">@color/black</item>
+
+    <!-- Secondary brand color. -->
+        <item name="colorPrimary">@color/denim</item>
+    </style>
+
+    <style name="Theme.LoginScreen" parent="Base.Theme.LoginScreen" />
+</resources>
+            
+
